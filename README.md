@@ -1,8 +1,3 @@
----
-title: Analytics ETL CLI
-
----
-
 # Data Sync Process: MySQL -> SQLite
 
 A small ETL CLI that extracts data from a MySQL (Sakila-like) source and loads a SQLite analytics DB (star schema). This markdown file documents setup, environment variables, how to run each CLI command, and schema diagrams .
